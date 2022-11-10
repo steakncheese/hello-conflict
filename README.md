@@ -1,2 +1,2 @@
-# hello-conflict
+# Hello Conflict
 Delete later
